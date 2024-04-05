@@ -30,7 +30,7 @@ include_once('./admin/PPDBLink.php');
             <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
                 <div class="container">
                     <a class="navbar-brand" href="index.php">
-                        <img src="img/LogoMasjid.png" height="30" alt="Masjid Al Ikhlas" loading="lazy" />
+                        <img src="img/logo.png" height="30" alt="Masjid Al Ikhlas" loading="lazy" />
                     </a>
                     <!-- Responsive Header -->
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -82,7 +82,7 @@ include_once('./admin/PPDBLink.php');
                             <!-- Background image -->
                             <div
                                 class="p-5 text-center shadow-5-strong rounded"
-                                style="background-image: url('img/Masjid1.JPG'); height: 500px; background-size: cover; background-position: 50% 50%; background-color: rgba(0, 0, 0, 0);"
+                                style="background-image: url('img/mimbar.jpeg'); height: 500px; background-size: cover; background-position: 50% 50%; background-color: rgba(0, 0, 0, 0);"
                                 aria-controls="#picker-editor"
                             ></div>
                             <!-- Background image -->
@@ -161,9 +161,9 @@ include_once('./admin/PPDBLink.php');
             <div class="container my-5">
                 <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
                     <div class="col-lg-7 p-3 p-lg-5 pt-lg-3">
-                        <h1 class="display-4 fw-bold lh-1">Sambutan Ketua Yayasan</h1>
+                        <h1 class="display-4 fw-bold lh-1">Sambutan Ketua DKM</h1>
                         <p class="lead">
-                            Segala puji marilah kita panjatkan kehadirat Allah SWT bahwa atas berkah-Nya kita senantiasa mendapat limpahan rahmat dan keridoan-Nya sehingga Pondok Pesantren Nurul Jadid Al - Mas'udiyah terus berkembang maju
+                            Segala puji marilah kita panjatkan kehadirat Allah SWT bahwa atas berkah-Nya kita senantiasa mendapat limpahan rahmat dan keridoan-Nya sehingga Masjid Al Ikhlas Dakota terus berkembang maju
                             dan memberi kontribusi bagi masyarakat dan dunia pendidikan. Sholawat teriring salam semoga tercurahkan kepada junjungan Nabi Muhammad SAW, beserta keluarga, pada sahabat dan pengikutnya hingga akhir zaman.
                             Aamiin Ya Robbal Aalamiin.
                         </p>
@@ -172,7 +172,7 @@ include_once('./admin/PPDBLink.php');
                         </figcaption>
                     </div>
                     <div class="col-lg-4 offset-lg-1 p-0 overflow-hidden">
-                        <img class="img-thumbnail" src="https://dummyimage.com/200x200/000/fff" alt="" />
+                        <img class="img-thumbnail" src="img/2.jpg" alt="" />
                     </div>
                 </div>
             </div>
@@ -251,7 +251,7 @@ include_once('./admin/PPDBLink.php');
                 <i class="fas fa-map-marker-alt text-danger fa-3x"></i>
               </div>
               <div class="text-end">
-                <h3><script type="text/javascript" src="admin/Include/visitorCounter.php?show=this"></script></h3>
+                <h3><script type="text/javascript" src="admin/Include/Counter.php?show=this"></script></h3>
                 <h3><?php echo $id?></h3>
                 <p class="mb-0">Total Website Visits</p>
               </div>
@@ -331,7 +331,7 @@ include_once('./admin/PPDBLink.php');
                                                         </div>
                                                         <div class="flex-grow-1 ms-4">
                                                             <p class="fw-bold mb-1">Website</p>
-                                                            <p class="text-muted mb-0">nuruljadid.ponpes.id</p>
+                                                            <p class="text-muted mb-0">nuruljadidMasjid Al-Ikhlas Dakota</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -374,11 +374,11 @@ include_once('./admin/PPDBLink.php');
         <footer class="py-3 my-4">
             <ul class="nav justify-content-center border-bottom pb-3 mb-3">
                 <li class="nav-item"><a href="index.php" class="nav-link px-2 text-muted">Home</a></li>
-                <li class="nav-item"><a href="pages/ppdb.php" class="nav-link px-2 text-muted">PPDB</a></li>
+                <!-- <li class="nav-item"><a href="pages/ppdb.php" class="nav-link px-2 text-muted">PPDB</a></li> -->
                 <li class="nav-item"><a href="pages/blog.php" class="nav-link px-2 text-muted">Berita</a></li>
                 <li class="nav-item"><a href="pages/aboutus.php" class="nav-link px-2 text-muted">Tentang Kami</a></li>
             </ul>
-            <p class="text-center text-muted">© 2022 Pondok Pesantren Nurul Jadid Al - Mas'udiyah</p>
+            <p class="text-center text-muted">© 2022 Masjid Al Ikhlas Dakota</p>
         </footer>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
