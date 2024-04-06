@@ -118,11 +118,11 @@
 								<form method="POST" action="AboutUs.php">
 									<fieldset>
 										<div class="form-group" style="margin-top:1cm ;">
-											<label for="cat_name"><strong>Tentang Pondok Pesantren Nurul Jadid</strong></label>
+											<label for="cat_name"><strong>Tentang Masjid Al Ikhlas</strong></label>
 											<br>
 											<br>
 											<!-- <input class="form-control input-md" type="text" name="about-post-content" id="about-post-content" placeholder="Ceritakan tentang Pesantren Nurul Jadid"> -->
-											<textarea name="about-post-content" id="about-post-content" cols="100" rows="5" placeholder="Ceritakan tentang Pesantren Nurul Jadid "><?php echo $postAboutus ?></textarea>
+											<textarea name="about-post-content" id="about-post-content" cols="100" rows="5" placeholder="Ceritakan tentang Masjid Al Ikhlas "><?php echo $postAboutus ?></textarea>
 										</div>
 
                                         <div class="form-group" style="margin-top:1cm ;">

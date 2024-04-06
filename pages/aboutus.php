@@ -99,7 +99,7 @@ include_once('../admin/PPDBLink.php');
                         <img src="../img/1.jpg" class="w-100 shadow-5-strong rounded-4 mb-4" alt="" aria-controls="#picker-editor" draggable="false" />
                     </div>
                     <div class="col-md-6 mb-4">
-                        <h3 class="fw-bold mb-3">Tentang Pondok Pesantren Nurul Jadid</h3>
+                        <h3 class="fw-bold mb-3">Tentang Masjid Al Ikhlas</h3>
                         <!-- <div class="mb-2 text-primary small"><i class="fas fa-book-reader me-2" aria-controls="#picker-editor"></i><span>Lomba</span></div> -->
                         <p style="text-align: justify;" class="text-muted ">
                             <?php echo $postAbout ?>
