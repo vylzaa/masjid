@@ -318,7 +318,6 @@ include_once('./admin/PPDBLink.php');
                                                         </div>
                                                         <div class="flex-grow-1 ms-4">
                                                             <p class="fw-bold mb-1">Kontak Kami</p>
-                                                            <!-- <p class="text-muted mb-0">pondoknuruljadidgmail.com</p> -->
                                                             <p class="text-muted mb-0">+62 858-6864-6334 (Edi)</p>
                                                             <p class="text-muted mb-0">+62 813-1093-1519 (Gus Rahmat)</p>
                                                         </div>
@@ -331,7 +330,7 @@ include_once('./admin/PPDBLink.php');
                                                         </div>
                                                         <div class="flex-grow-1 ms-4">
                                                             <p class="fw-bold mb-1">Website</p>
-                                                            <p class="text-muted mb-0">nuruljadidMasjid Al-Ikhlas Dakota</p>
+                                                            <p class="text-muted mb-0">Masjid Al-Ikhlas Dakota</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -378,7 +377,7 @@ include_once('./admin/PPDBLink.php');
                 <li class="nav-item"><a href="pages/blog.php" class="nav-link px-2 text-muted">Berita</a></li>
                 <li class="nav-item"><a href="pages/aboutus.php" class="nav-link px-2 text-muted">Tentang Kami</a></li>
             </ul>
-            <p class="text-center text-muted">© 2022 Masjid Al Ikhlas Dakota</p>
+            <p class="text-center text-muted">© 2024 Masjid Al Ikhlas Dakota</p>
         </footer>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>

@@ -80,7 +80,7 @@
                         <div class="row align-items-center mb-4">
                             <div class="col-lg-7">
                                 <img src="../img/event/event_Akhirussanah_1.jpeg" class="rounded-circle me-2" alt="" loading="lazy" aria-controls="#picker-editor" height="35" width="35" />
-                                <span> Published <u>5.05.2022</u> by</span> <a href="undefined" class="text-dark" aria-controls="#picker-editor">Muhammad Irfani</a>
+                                <span> Published <u>5.05.2024</u> by</span> <a href="undefined" class="text-dark" aria-controls="#picker-editor">Muhammad Irfani</a>
                             </div>
                         </div>
                         <h1 class="fw-bold mb-4">Peserta Juara Lomba Membaca Al-Qur'an</h1>
@@ -103,7 +103,7 @@
             <li class="nav-item"><a href="../pages/blog.php " class="nav-link px-2 text-muted">Berita</a></li>
             <li class="nav-item"><a href="../pages/aboutus.php " class="nav-link px-2 text-muted">Tentang Kami</a></li>
         </ul>
-        <p class="text-center text-muted">© 2022 Masjid Al-Ikhlas Dakota</p>
+        <p class="text-center text-muted">© 2024 Masjid Al-Ikhlas Dakota</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
