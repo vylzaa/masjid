@@ -126,7 +126,7 @@
                         </div>
                     </div>
                     <div class="text-center mt-5 text-muted">
-                        Copyright &copy; 2022 &mdash; Masjid Al-Ikhlas Dakota
+                        Copyright &copy; 2024 &mdash; Masjid Al-Ikhlas Dakota
                     </div>
                 </div>
             </div>
