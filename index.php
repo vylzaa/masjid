@@ -15,7 +15,7 @@ include_once('./admin/PPDBLink.php');
         <meta http-equiv="x-ua-compatible" content="ie=edge" />
         <title>Masjid Al Ikhlas</title>
         <!-- MDB icon -->
-        <link rel="icon" href="img/icon/favicon.ico" type="image/x-icon" />
+        <!-- <link rel="icon" href="img/icon/favicon.ico" type="image/x-icon" /> -->
         <!-- Font Awesome -->
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" />
         <!-- Google Fonts Roboto -->
@@ -233,7 +233,7 @@ include_once('./admin/PPDBLink.php');
           <div class="card-body">
             <div class="d-flex justify-content-between px-md-1">
               <div>
-                <h3 class="text-success">156</h3>
+                <h3 class="text-success">60</h3>
                 <p class="mb-0">Murid</p>
               </div>
               <div class="align-self-center">
@@ -318,8 +318,7 @@ include_once('./admin/PPDBLink.php');
                                                         </div>
                                                         <div class="flex-grow-1 ms-4">
                                                             <p class="fw-bold mb-1">Kontak Kami</p>
-                                                            <p class="text-muted mb-0">+62 858-6864-6334 (Edi)</p>
-                                                            <p class="text-muted mb-0">+62 813-1093-1519 (Gus Rahmat)</p>
+                                                            <p class="text-muted mb-0">+62 882-2218-7527 (Arman)</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -341,8 +340,8 @@ include_once('./admin/PPDBLink.php');
                                                         </div>
                                                         <div class="flex-grow-1 ms-4">
                                                             <p class="fw-bold mb-1">Bug report</p>
-                                                            <p class="text-muted mb-0">muhammadirfani@pm.me</p>
-                                                            <p class="text-muted mb-0">+62 822-2009-1122</p>
+                                                            <p class="text-muted mb-0">manzkousei67@gmail.com</p>
+                                                            <p class="text-muted mb-0">+62 882-2218-7527</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -353,7 +352,7 @@ include_once('./admin/PPDBLink.php');
                                                         </div>
                                                         <div class="flex-grow-1 ms-4">
                                                             <p class="fw-bold mb-1">Instagram</p>
-                                                            <p class="text-muted mb-0">pon.pes_almasudiyah</p>
+                                                            <p class="text-muted mb-0">alikhlas.official</p>
                                                         </div>
                                                     </div>
                                                 </div>
