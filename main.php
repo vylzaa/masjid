@@ -26,7 +26,7 @@ if ( isset($_POST['submit'])) {
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta http-equiv="x-ua-compatible" content="ie=edge" />
-        <title>Masjid Nurul Hidayah</title>
+        <title>Masjid Al Ikhlas</title>
         <!-- MDB icon -->
         <link rel="icon" href="img/icon/favicon.ico" type="image/x-icon" />
         <!-- Font Awesome -->
@@ -43,7 +43,7 @@ if ( isset($_POST['submit'])) {
             <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
                 <div class="container">
                     <a class="navbar-brand" href="index.php">
-                        <img src="img/LogoMasjid.png" height="30" alt="Masjid Nurul Hidayah" loading="lazy" />
+                        <img src="img/LogoMasjid.png" height="30" alt="Masjid Al Ikhlas" loading="lazy" />
                     </a>
                     <!-- Responsive Header -->
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -134,7 +134,7 @@ if ( isset($_POST['submit'])) {
                                 <div class="card-body px-4 py-5 px-md-5">
                                     <h1 class="display-3 fw-bold ls-tight mb-4">
                                         <span>Masjid</span> <br />
-                                        <span style="color:blue;"> Nurul Hidayah</span>
+                                        <span style="color:blue;"> Al Ikhlas</span>
                                         <p><cite style="font-style: italic; font-size: 20px;">"Barangsiapa Yang Lebih Mementingkan Ibadahnya Niscaya Surga Bagimu"</cite></p>
                                         
                                     <!-- <a class="btn btn-link btn-lg py-3 px-5 text-danger mb-2 me-2" data-ripple-color="danger" href="#berita1" role="button" aria-controls="#picker-editor" draggable="false">Baca selengkapnya</a> -->
@@ -208,7 +208,7 @@ if ( isset($_POST['submit'])) {
                     <div class="col-lg-7 p-3 p-lg-5 pt-lg-3">
                         <h1 class="display-4 fw-bold lh-1">Sambutan Ketua Masjid</h1>
                         <p class="lead">
-                            Segala puji marilah kita panjatkan kehadirat Allah SWT bahwa atas berkah-Nya kita senantiasa mendapat limpahan rahmat dan keridoan-Nya sehingga Pondok Pesantren Nurul Jadid Al - Mas'udiyah terus berkembang maju
+                            Segala puji marilah kita panjatkan kehadirat Allah SWT bahwa atas berkah-Nya kita senantiasa mendapat limpahan rahmat dan keridoan-Nya sehingga Masjid Al-Ikhlas Dakota terus berkembang maju
                             dan memberi kontribusi bagi masyarakat dan dunia pendidikan. Sholawat teriring salam semoga tercurahkan kepada junjungan Nabi Muhammad SAW, beserta keluarga, pada sahabat dan pengikutnya hingga akhir zaman.
                             Aamiin Ya Robbal Aalamiin.
                         </p>
@@ -339,7 +339,7 @@ if ( isset($_POST['submit'])) {
                                                         </div>
                                                         <div class="flex-grow-1 ms-4">
                                                             <p class="fw-bold mb-1">Kontak Kami</p>
-                                                            <p class="text-muted mb-0">masjidnurulhidayah@gmail.com</p>
+                                                            <p class="text-muted mb-0">masjidalkhlas@gmail.com</p>
                                                             <p class="text-muted mb-0">+62 858-1267-2365 (Sutisna)</p>
                                                         </div>
                                                     </div>
@@ -375,7 +375,7 @@ if ( isset($_POST['submit'])) {
                 <li class="nav-item"><a href="pages/blog.php" class="nav-link px-2 text-muted">Berita</a></li>
                 <li class="nav-item"><a href="pages/aboutus.php" class="nav-link px-2 text-muted">Tentang Kami</a></li>
             </ul>
-            <p class="text-center text-muted">© 2022 Masjid Nurul Hidayah</p>
+            <p class="text-center text-muted">© 2024 Masjid Al Ikhlas</p>
         </footer>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>

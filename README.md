@@ -14,7 +14,7 @@ Kami berinisiatif untuk membuatkan sebuah website Profile untuk instansi yang ma
 Selain untuk menampilkan profile, website yang kami buat juga bertujuan untuk memberikan infromasi kepada masyarakat tentang kegiatan yang berjalan pada masjid.
 
 # Target 
-Masjid Nurul Hidayah
+Masjid Al Ikhlas
 
 # Pembagian Tugas
 
